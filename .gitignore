@@ -1,0 +1,14 @@
+# Ignore .pyc files
+*.pyc
+
+# Ignore .idea files
+*.idea
+
+# Ignore any pycache
+__pycache__/
+
+# ipynb checkpoints
+*.ipynb_checkpoints
+
+# DS store
+*.DS_Store
